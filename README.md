@@ -32,5 +32,9 @@ This software is free and carries a MIT license.
 
 Changelog
 ---------
+v1.1.0 (2016-03-10)
+* Converted plugin to OOP.
+* Added option for dropdown selector.
+
 v1.0.0 (2016-03-09)
 * First release.
