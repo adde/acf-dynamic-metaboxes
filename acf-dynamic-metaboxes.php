@@ -3,7 +3,7 @@
 Plugin Name: Advanced Custom Fields: Dynamic Metaboxes
 Plugin URI: https://github.com/adde/acf-dynamic-metaboxes
 Description: This plugin gives you the option to hide and show ACF metaboxes based on values on the post.
-Version: 1.1.0
+Version: 1.2.0
 Author: Andreas Jönsson
 Author URI: https://github.com/adde
 License: MIT

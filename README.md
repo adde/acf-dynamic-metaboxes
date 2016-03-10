@@ -32,6 +32,9 @@ This software is free and carries a MIT license.
 
 Changelog
 ---------
+v1.2.0 (2016-03-10)
+* Added support for translations.
+
 v1.1.0 (2016-03-10)
 * Converted plugin to OOP.
 * Added option for dropdown selector.
