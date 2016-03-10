@@ -1,6 +1,5 @@
 jQuery(function($) {
-
-	var $categorySelect = $('#acf-field-block_type');
+	var $categorySelect = $(acfdmConfig.categorySelector);
 	var metaboxes = [];
 
 	if($categorySelect.length > 0) {
