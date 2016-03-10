@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.7\n"
+
+#: ../acf-dynamic-metaboxes.php:54
+msgid "Dynamic Metaboxes"
+msgstr "Dynamiska Metaboxar"
+
+#: ../acf-dynamic-metaboxes.php:80
+msgid "Dynamic Metaboxes for ACF"
+msgstr "Dynamiska Metaboxar för ACF"
+
+#: ../acf-dynamic-metaboxes.php:87
+msgid "Category selector"
+msgstr "Kategoriselektor"
+
+#: ../acf-dynamic-metaboxes.php:89
+msgid "Enter the CSS selector of the category dropdown that the plugin should check against"
+msgstr "Ange CSS-selektor för kategoriväljaren som tillägget ska kontrollera mot"
+
+#: ../acf-dynamic-metaboxes.php:96
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: ../acf-dynamic-metaboxes.php:98
+msgid "Enter the configuration as an JSON-expression. Make sure the JSON is valid, you can do this at"
+msgstr "Ange konfiguration som ett JSON-uttryck. Se till att JSON-strängen är giltig, du kan göra detta på"
